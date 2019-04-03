@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 chaine_abeille='//192.168.0.2/abeille /mnt/abeille cifs guest,_netdev,iocharset=utf8,uid=stagiaire 0 0'
 chaine_baobab='//192.168.0.2/baobab /mnt/baobab cifs guest,_netdev,iocharset=utf8,uid=stagiaire 0 0'
 
